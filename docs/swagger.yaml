@@ -1,0 +1,14 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: kazimovzaman2@gmail.com
+    name: Zaman Kazimov
+  description: This is a sample swagger for Fiber
+  license:
+    name: MIT
+  termsOfService: http://swagger.io/terms/
+  title: Clean Architecture example
+  version: "1.0"
+paths: {}
+swagger: "2.0"
